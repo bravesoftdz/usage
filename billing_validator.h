@@ -1,6 +1,3 @@
-/*
- * nanfang@embrane.com
- */
 
 #ifndef __BILLING_VALIDATOR_H__
 #define __BILLING_VALIDATOR_H__
